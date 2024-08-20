@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AronnZ
-- 👀 I’m interested in Machine Learning, Deep Learning and Large Language Model(LLM)
+- 👀 I’m interested in Machine Learning, Deep Learning and Large Language Models (LLM)
 - 🌱 I graduated from NUS and currently working at NTU
 
 <!---
