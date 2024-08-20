@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AronnZ
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently study in NUS
+- 👀 I’m interested in Machine Learning, Deep Learning and Large Language Model(LLM)
+- 🌱 I graduated from NUS and currently working at NTU
 
 <!---
 AronnZzz/AronnZzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
